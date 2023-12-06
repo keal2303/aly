@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Eiffel Tower",
+        "category": "Monument",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "id": 2001,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Champ de Mars",
+        "coordinates": {
+            "longitude": 2.294481,
+            "latitude": 48.858844
+        },
+        "description": "One of the most iconic landmarks in the world, the Eiffel Tower was constructed for the 1889 World's Fair.",
+        "imageName": "eiffel_tower"
+    },
+    {
+        "name": "Notre-Dame Cathedral",
+        "category": "Monument",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "id": 2002,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Ile de la Cite",
+        "coordinates": {
+            "longitude": 2.349914,
+            "latitude": 48.85326
+        },
+        "description": "A masterpiece of French Gothic architecture, known for its sculptures, intricate facades, and rose windows.",
+        "imageName": "notre_dame"
+    },
+    {
+        "name": "Louvre Museum",
+        "category": "Museum",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "id": 2003,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "1st arrondissement",
+        "coordinates": {
+            "longitude": 2.336299,
+            "latitude": 48.860611
+        },
+        "description": "Home to thousands of works of art, including the Mona Lisa and The Venus de Milo.",
+        "imageName": "louvre"
+    },
+    {
+        "name": "Arc de Triomphe",
+        "category": "Monument",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "id": 2004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Place Charles de Gaulle",
+        "coordinates": {
+            "longitude": 2.295028,
+            "latitude": 48.873779
+        },
+        "description": "An iconic symbol of French national pride, the arch honors those who fought for France.",
+        "imageName": "arc_de_triomphe"
+    },
+    {
+        "name": "Sacre-Coeur Basilica",
+        "category": "Monument",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "id": 2005,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Montmartre",
+        "coordinates": {
+            "longitude": 2.343095,
+            "latitude": 48.886717
+        },
+        "description": "Located at the highest point in the city, the basilica offers panoramic views of Paris.",
+        "imageName": "sacre_coeur"
+    }
+]

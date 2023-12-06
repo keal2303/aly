@@ -1,0 +1,22 @@
+//
+//  CategoryRow.swift
+//  aly
+//
+//  Created by chatrli on 19/10/2023.
+//
+
+import SwiftUI
+
+struct CategoryRow: View {
+    var categoryName: String
+    var items: [Mark]
+    var body: some View {
+        Text(categoryName)
+            .font(.headline)
+    }
+}
+
+#Preview {
+    let marks = ModelData().marks
+    return CategoryRow(categoryName: marks[0].category.rawValue, items: Array(marks.prefix(3)))
+}
